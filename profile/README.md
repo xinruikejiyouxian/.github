@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+我们聚焦于 **视频AI模型研发**、**计算机视觉（CV）技术落地**与 **Spring生态框架开发**，以轻量化、高性能的技术方案，打造开箱即用的AI应用与企业级服务。
+### 🙋‍♀️ 关于
+作为深耕AI与全栈技术的团队，我们的核心能力覆盖AI研发与工程落地全链路：
+- **AI模型研发**：基于YOLO系列（YOLOv5/YOLOv8/YOLOv9）打造定制化视频目标检测、行为分析、画面理解模型，适配多场景视频分析需求
+- **计算机视觉（CV）**：深耕图像分割、特征提取、实时视频流处理，提供端到端的CV解决方案
+- **框架开发**：基于Spring/Spring Boot/Spring Cloud构建高可用、易扩展的企业级后端架构，无缝对接AI模型服务
+- **工程化落地**：将自研视频AI模型与Spring生态深度融合，实现AI能力的工程化封装、低代码调用与快速部署
 
-<!--
+### 🌈 贡献指南
+期待与社区共建AI+全栈技术生态！参与方式如下：
+1.  **模型优化**：若发现YOLO系列模型在视频场景下的性能瓶颈，可提交Issue说明场景与优化思路，或发起PR贡献调优代码
+2.  **框架适配**：针对Spring集成AI模型的工程化问题（如性能、兼容性），欢迎提交改进方案与代码实现
+3.  **功能开发**：Fork仓库后新增视频AI功能（如多源视频解析、模型轻量化），提交PR时注明应用场景与测试用例
+4.  **文档完善**：补充模型部署、框架集成、CV实战的教程文档，降低开发者使用门槛
 
-**Here are some ideas to get you started:**
+### 🍿 团队趣闻
+- 早餐标配：咖啡 + 全麦面包——边讨论视频模型调参思路，边补充一天的研发能量
+- 技术日常：每周组织“模型挑战赛”，团队成员基于YOLO优化视频检测精度/速度，持续打磨核心算法
+- 初心起点：团队首个落地项目是基于Spring Boot+YOLOv5的园区视频监控系统，至今已迭代至第4版
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+*以AI赋能视频场景，用框架夯实工程落地，与社区共筑技术生态！❤️*
